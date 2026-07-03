@@ -1,0 +1,22 @@
+# Arduino
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+*.o
+*.d
+*.bin
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
